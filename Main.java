@@ -16,7 +16,7 @@ public class Main {
 
     String znak = scanner.nextLine();
   
-    
+     
     System.out.println("podaj nowy znak");
 
     
